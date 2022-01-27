@@ -52,7 +52,7 @@ features_zh:
 - Arduino Uno 和 ST morpho 两类扩展接口
 pkg_type: Board_Support_Packages
 pkg_vendor: RealThread
-pkg_version: 1.0.2
+pkg_version: 1.0.3
 template_projects:
 - builtin_files:
   - files_and_folders:
